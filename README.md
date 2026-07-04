@@ -1,4 +1,4 @@
-# 🐧 Kagami
+# 🐧
 
 AWS All Certifications Engineer  
 Generative AI | MLOps | Computer Vision | Tech Lead | Playing Manager
@@ -67,17 +67,5 @@ Based in Nagoya, Japan.
 - GitHub Actions
 - VS Code
 - Jupyter Notebook
-
----
-
-## Activities
-
-### Qiita
-
-[Qiita Profile](https://qiita.com/kagami_t)
-
-### GitHub
-
-![GitHub Profile Summary](https://raw.githubusercontent.com/kagami-tsukimura/kagami-tsukimura/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-
+- 
 ---
