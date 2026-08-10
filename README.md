@@ -66,6 +66,4 @@ Based in Nagoya, Japan.
 - GitHub
 - GitHub Actions
 - VS Code
-- Jupyter Notebook
-- 
 ---
