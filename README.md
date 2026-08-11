@@ -11,7 +11,7 @@ Generative AI | MLOps | Computer Vision | Tech Lead | Playing Manager
 
 My primary expertise is Computer Vision, MLOps, and Generative AI on AWS.
 
-I have led production projects, improved machine learning accuracy, introduced MLOps practices, mentored engineers, and built Generative AI PoCs using Amazon Bedrock.
+I have led production projects, improved machine learning accuracy, introduced MLOps practices, mentored engineers, and built Generative AI PoCs.
 
 Based in Nagoya, Japan.
 
@@ -27,19 +27,14 @@ Based in Nagoya, Japan.
 ### AI / Machine Learning
 
 - Computer Vision
-- Object Detection
-- MLOps
 - Generative AI
-- RAG
-- AI Agents
+- MLOps
 
 ### Languages
 
 - Python
 - TypeScript
-- JavaScript
 - GO
-- ShellScript
 
 ### Familiar With
 
@@ -52,18 +47,7 @@ Based in Nagoya, Japan.
 - React
 - Next.js
 - FastAPI
-- Flask
 - Streamlit
 - Angular
 - NestJS
-
-### Database / Tools
-
-- PostgreSQL
-- Docker
-- Linux
-- Ubuntu
-- GitHub
-- GitHub Actions
-- VS Code
 ---
